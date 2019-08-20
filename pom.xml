@@ -32,12 +32,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexus</id>
-		    <url>http://104.155.163.31:8086/nexus/content/repositories/snapshots/</url>
+		    <url>http://104.154.189.67:8086/nexus/content/repositories/snapshots/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexus</id>
-		    <url>http://104.155.163.31:8086/nexus/content/repositories/releases/</url>
+		    <url>http://104.154.189.67:8086/nexus/content/repositories/releases/</url>
 		</repository>
   	</distributionManagement>
 	
