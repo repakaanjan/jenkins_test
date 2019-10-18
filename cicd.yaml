@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: tomcat
-        image: 35.237.20.4/library/tomcat:1
+        image: 35.237.20.4/devstack/tomcat:1
         ports:
         - name: main
           protocol: TCP
